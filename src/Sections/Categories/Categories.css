@@ -1,0 +1,79 @@
+#categories {
+  background: var(--color-bg);
+}
+.categories-container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 2rem;
+}
+
+.categories-card {
+  text-align: center;
+  cursor: pointer;
+}
+.categories-card {
+  position: relative;
+}
+
+.categories-card:not(:first-child)::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5); /* Ajusta el valor alpha para la opacidad deseada */
+  border-radius: var(--border-radius-2);
+}
+
+.categories-card img {
+  background: url(./bg.png);
+  background-size: cover;
+  background-position: center;
+  border: var(--border-1);
+  max-height: 300px;
+  object-fit: contain;
+  border-radius: var(--border-radius-2);
+}
+
+.categories-card:not(:first-child)::after {
+  content: 'Pronto...';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white; /* Color del texto */
+  font-size: 24px; /* Tamaño del texto, ajusta según sea necesario */
+  font-weight: bold; /* Peso de la fuente, ajusta según sea necesario */
+}
+
+
+.categories-card h4 {
+  margin-top: 1.5rem;
+  text-transform: uppercase;
+  font-size: .95rem;
+  font-weight: 600;
+}
+
+/* _______________RESPNSIVE/TABLET________________*/
+
+@media screen and (max-width: 1024px){
+  .categories-container {
+    grid-template-columns: 1fr 1fr;
+  }
+
+}
+
+/* =================RESPNSIVE/PHONE==================== */
+
+@media screen and (max-width: 600px){
+  .categories-container {
+    grid-template-columns: 1fr;
+  }
+ 
+  #cateories {
+    margin: auto;
+    width: 70%;
+  }
+
+}
