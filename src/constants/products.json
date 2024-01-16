@@ -1,0 +1,72 @@
+[
+    {
+        "imgURL": "./reloj1.jpg",
+        "name": "Rolex datedust",
+        "category": "clothing",
+        "price": "90$",
+        "old": "100$"
+    },
+    {
+        "imgURL": "./reloj2.jpg",
+        "name": "Rolex deepsea",
+        "category": "Ladies",
+        "price": "90$",
+        "old": "109$"
+    },
+    {
+        "imgURL": "./reloj3.jpg",
+        "name": "Rolex submariner",
+        "category": "garments",
+        "price": "90$",
+        "old": "100$"
+    },
+    {
+        "imgURL": "./watch4.jpg",
+        "name": "Rolex deepsea",
+        "category": "cosmetics",
+        "price": "90$",
+        "old": "100$"
+    },
+    {
+        "imgURL": "./watch5.jpg",
+        "name": "Rolex oyster",
+        "category": "Shoes",
+        "price": "90$",
+        "old": "110$"
+    },
+    {
+        "imgURL": "./watch6.jpg",
+        "name": "Fossil",
+        "category": "fragrance",
+        "price": "90$",
+        "old": "109$"
+    },
+    {
+        "imgURL": "./watch7.jpg",
+        "name": "Cuartz orient",
+        "category": "Accessories",
+        "price": "90$",
+        "old": "100$"
+    },
+    {
+        "imgURL": "./watch8.jpg",
+        "name": "Rolex datedust",
+        "category": "Children",
+        "price": "90$",
+        "old": "100$"
+    },
+    {
+        "imgURL": "./watch9.jpg",
+        "name": "Cartier",
+        "category": "Women",
+        "price": "85$",
+        "old": "100$"
+    },
+    {
+        "imgURL": "./watch10.jpg",
+        "name": "Casio",
+        "category": "Men",
+        "price": "90$",
+        "old": "100$"
+    }
+]

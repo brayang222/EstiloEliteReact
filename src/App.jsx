@@ -8,6 +8,7 @@ import Testimonial from './Sections/Testimonial/Testimonial'
 import Blog from './Sections/Blog/Blog'
 import Footer from './Sections/Footer/Footer'
 import WhatsApp from './Sections/WhatsApp/WhatsApp'
+import Compras from './Sections/Compras'
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
       <Hero/>
       <Categories/>
       <Shop/>
+      <Compras />
       <Deal/>
       <Testimonial/>
       <Blog/>
