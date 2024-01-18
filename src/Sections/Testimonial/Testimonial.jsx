@@ -10,7 +10,7 @@ const Testimonial = () => {
           </div>
           <div className="testimonial-container container">
             <div className="testimonial-card">
-              <img src="/varg1.png" alt="" />
+              <img src="/varg1.webp" alt="" />
               <h4>Camilo Vargas</h4>
               <h5>CEO & fundador</h5>
               <div className="quotes">
@@ -19,7 +19,7 @@ const Testimonial = () => {
               <p></p>
             </div>
             <div className="testimonial-card">
-              <img src="/varg2.jpeg" alt="" />
+              <img src="/varg2.webp" alt="" />
               <h4>Brayan Vargas</h4>
               <h5>CEO & fundador</h5>
               <div className="quotes">

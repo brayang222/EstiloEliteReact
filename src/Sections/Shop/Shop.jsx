@@ -32,14 +32,14 @@ const Shop = () => {
                   <span>{card.price}</span>
                   <span>{card.old}</span>
                 </div>
-                <div className="card-buttons">
+                {/* <div className="card-buttons">
                   <button className="btn">Ver detalles</button>
                   <button className="btn">Añadir al carrito</button>
-                </div>
+                </div> */}
                 <div className="card-icons">
-                  <a href=""><RiHeartLine/></a>
-                  <a href=""><RiEyeLine/></a>
-                  <a href=""><RiShoppingCartLine/></a>
+                  <a href="https://chat.whatsapp.com/CFrnaGd5cgzJ9aFmHH3f1u"><RiHeartLine/></a>
+                  <a href="https://chat.whatsapp.com/CFrnaGd5cgzJ9aFmHH3f1u"><RiEyeLine/></a>
+                  <a href="https://chat.whatsapp.com/CFrnaGd5cgzJ9aFmHH3f1u"><RiShoppingCartLine/></a>
                 </div>
               </div>
             </SwiperSlide>

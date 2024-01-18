@@ -1,61 +1,61 @@
 export const watchsData = [
     {
-        thumbnail: "/watch1.png",
-        watch: "/watch1.jpg",
+        thumbnail: "/watch1.webp",
+        watch: "/relojes/watch1.jpg",
     },
     {
-        thumbnail: "/watch2.png",
-        watch: "/watch2.jpg",
+        thumbnail: "/watch2.webp",
+        watch: "/relojes/watch2.jpg",
     },
     {
-        thumbnail: "/watch3.png",
-        watch: "/watch3.jpg",
+        thumbnail: "/watch3.webp",
+        watch: "/relojes/watch3.jpg",
     },
 ];
 
 export const categoryData = [
     {
-        imgURL: '/watch1.jpg',
+        imgURL: '../relojes/watch1.webp',
         title: "Relojes",
     },
     {
-        imgURL: '/bleu.png',
+        imgURL: '/bleu.webp',
         title: "Perfumes",
     },
     {
-        imgURL: '/correa.jpg',
+        imgURL: '/correa.webp',
         title: "Correas",
     },
     {
-        imgURL: 'gorra.jpeg',
+        imgURL: 'gorra.webp',
         title: "Gorras",
     },
 ];
 
 export const blogData = [
     {
-        imgURL: "/faceb.png",
+        imgURL: "/faceb.webp",
         ctg: 'social', 
         title: 'Nuestro facebook', 
         info: 'Visítalo!',
         linkURL: 'https://www.facebook.com/profile.php?id=61554924718461'
     },
     {
-        imgURL: "/insta.png",
+        imgURL: "/insta.webp",
         ctg: 'social', 
         title: 'Nuestro instagram', 
         info: 'Visítalo!',
         linkURL: 'https://www.instagram.com/estilo_elitee/'
     },
     {
-        imgURL: "/catalog.png",
+        imgURL: "/catalog.webp",
         ctg: 'brand',         
         title: 'Nuestro catálogo', 
         info: 'Visita nuestro catálogo!',
         linkURL: 'acortar.link/KiGYZ5'
     },
     {
-        imgURL: "/nuevasf.png",
+        imgURL: "/nuevasf.webp",
         ctg: 'brand',         
         title: 'Nuevas fotos', 
         info: 'Nuevas fotos de nuestro viaje al mar',

@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="footer-container container">
         <div className="footer-box">
           <div className="footer-title"> Promo  </div>
-            <img src="/camisareloj.jpeg" alt="" />
+            <img src="/camisareloj.webp" alt="" />
             <h4>Nuevo trend de estilo en 2024</h4>
             <p>Promocion</p>
         </div>

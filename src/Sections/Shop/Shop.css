@@ -57,11 +57,13 @@
 
 .card-buttons {
   display: flex;
-  gap: 0.5rem;
+  justify-content: center;
+  align-items: center;
 }
 
 .card-buttons .btn {
-  font-size: 0.7rem;
+
+  font-size: 0.8rem;
   text-transform: capitalize;
   padding: 0.5rem;
   letter-spacing: 0;

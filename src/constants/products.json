@@ -1,72 +1,244 @@
 [
     {
-        "imgURL": "./reloj1.jpg",
-        "name": "Rolex datedust",
-        "category": "clothing",
-        "price": "90$",
-        "old": "100$"
+      "imgURL": "../relojes/watch1.webp",
+      "name": "Rolex datedust",
+      "category": "Rolex",
+      "price": "90$",
+      "old": "100$",
+      "desc": "Un elegante reloj Rolex con un diseño clásico, perfecto para cualquier ocasión."
     },
     {
-        "imgURL": "./reloj2.jpg",
-        "name": "Rolex deepsea",
-        "category": "Ladies",
-        "price": "90$",
-        "old": "109$"
+      "imgURL": "../relojes/watch2.webp",
+      "name": "Rolex deepsea",
+      "category": "Rolex",
+      "price": "90$",
+      "old": "109$",
+      "desc": "El Rolex Deepsea es un reloj resistente al agua diseñado para las profundidades del océano, con un estilo moderno y funcionalidad excepcional."
     },
     {
-        "imgURL": "./reloj3.jpg",
-        "name": "Rolex submariner",
-        "category": "garments",
-        "price": "90$",
-        "old": "100$"
+      "imgURL": "../relojes/watch3.webp",
+      "name": "Rolex submariner",
+      "category": "Rolex",
+      "price": "90$",
+      "old": "100$",
+      "desc": "El Rolex Submariner es un clásico atemporal, conocido por su elegancia y durabilidad. Ideal para los amantes de la aventura."
     },
     {
-        "imgURL": "./watch4.jpg",
-        "name": "Rolex deepsea",
-        "category": "cosmetics",
-        "price": "90$",
-        "old": "100$"
+      "imgURL": "../relojes/watch4.webp",
+      "name": "Rolex deepsea azul",
+      "category": "Rolex",
+      "price": "90$",
+      "old": "100$",
+      "desc": "Una variante del Rolex Deepsea con un atractivo diseño en azul, perfecto para destacar en cualquier ocasión."
     },
     {
-        "imgURL": "./watch5.jpg",
-        "name": "Rolex oyster",
-        "category": "Shoes",
-        "price": "90$",
-        "old": "110$"
+      "imgURL": "../relojes/watch5.webp",
+      "name": "Rolex oyster azul",
+      "category": "Rolex",
+      "price": "90$",
+      "old": "110$",
+      "desc": "El Rolex Oyster es un símbolo de elegancia y rendimiento. Su diseño clásico lo convierte en una opción perfecta para cualquier evento formal."
     },
     {
-        "imgURL": "./watch6.jpg",
-        "name": "Fossil",
-        "category": "fragrance",
-        "price": "90$",
-        "old": "109$"
+      "imgURL": "../relojes/watch6.webp",
+      "name": "Fossil",
+      "category": "Fossil",
+      "price": "90$",
+      "old": "109$",
+      "desc": "El reloj Fossil combina estilo y funcionalidad. Con un diseño moderno y detalles de calidad, es una elección versátil para el día a día."
     },
     {
-        "imgURL": "./watch7.jpg",
-        "name": "Cuartz orient",
-        "category": "Accessories",
-        "price": "90$",
-        "old": "100$"
+      "imgURL": "../relojes/watch7.webp",
+      "name": "Cuartz orient",
+      "category": "Cuartz",
+      "price": "90$",
+      "old": "100$",
+      "desc": "El Cuartz Orient es un reloj confiable con tecnología cuarzo. Su diseño clásico y duradero lo convierte en una excelente elección para uso diario."
     },
     {
-        "imgURL": "./watch8.jpg",
-        "name": "Rolex datedust",
-        "category": "Children",
-        "price": "90$",
-        "old": "100$"
+      "imgURL": "../relojes/watch8.webp",
+      "name": "Rolex datedust dorado",
+      "category": "Rolex",
+      "price": "90$",
+      "old": "100$",
+      "desc": "Una variante dorada del Rolex Datedust, agregando un toque de lujo a tu estilo. Ideal para ocasiones especiales."
     },
     {
-        "imgURL": "./watch9.jpg",
-        "name": "Cartier",
-        "category": "Women",
-        "price": "85$",
-        "old": "100$"
+      "imgURL": "../relojes/watch9.webp",
+      "name": "Cartier",
+      "category": "Cartier",
+      "price": "85$",
+      "old": "100$",
+      "desc": "El reloj Cartier es sinónimo de elegancia y prestigio. Con un diseño icónico, es la elección perfecta para quienes buscan un estilo refinado."
     },
     {
-        "imgURL": "./watch10.jpg",
-        "name": "Casio",
-        "category": "Men",
-        "price": "90$",
-        "old": "100$"
+      "imgURL": "../relojes/watch10.webp",
+      "name": "Casio",
+      "category": "Casio",
+      "price": "90$",
+      "old": "100$",
+      "desc": "El reloj Casio combina funcionalidad y durabilidad. Con características avanzadas, es perfecto para aquellos que buscan un reloj resistente y práctico."
+    },
+    {
+      "imgURL": "../relojes/watch11.webp",
+      "name": "Tommy Hilfiger",
+      "category": "Tommy Hilfiger",
+      "price": "90$",
+      "old": "100$",
+      "desc": "Un elegante reloj Tommy Hilfiger que refleja estilo y sofisticación. Ideal para quienes aprecian la moda y la calidad."
+    },
+    {
+      "imgURL": "../relojes/watch12.webp",
+      "name": "Fossil negro",
+      "category": "Fossil",
+      "price": "90$",
+      "old": "100$",
+      "desc": "El Fossil negro ofrece un diseño moderno y versátil. Su esfera elegante y correa negra lo convierten en un accesorio perfecto para cualquier ocasión."
+    },
+    {
+      "imgURL": "../relojes/watch13.webp",
+      "name": "Rolex oyster blanco",
+      "category": "Rolex",
+      "price": "90$",
+      "old": "100$",
+      "desc": "El Rolex Oyster blanco es una obra maestra de elegancia. Su diseño atemporal y detalles refinados hacen de este reloj una joya para los amantes del lujo."
+    },
+    {
+      "imgURL": "../relojes/watch14.webp",
+      "name": "Rolex deepsea 2",
+      "category": "Rolex",
+      "price": "90$",
+      "old": "100$",
+      "desc": "El Rolex Deepsea 2 es una expresión de rendimiento y resistencia submarina. Diseñado para aventuras extremas, este reloj es una elección robusta y estilizada."
+    },
+    {
+      "imgURL": "../relojes/watch15.webp",
+      "name": "Rolex dama gris",
+      "category": "Rolex",
+      "price": "90$",
+      "old": "100$",
+      "desc": "La delicadeza se encuentra con la elegancia en el Rolex dama gris. Un reloj diseñado para destacar en la muñeca de la mujer moderna y sofisticada."
+    },
+    {
+      "imgURL": "../relojes/watch16.webp",
+      "name": "Rolex dama azul",
+      "category": "Rolex",
+      "price": "90$",
+      "old": "100$",
+      "desc": "El Rolex dama azul es un símbolo de estilo refinado y distinción. Su esfera azul cautivadora y detalles cuidadosamente elaborados lo convierten en una joya atemporal."
+    },
+    {
+      "imgURL": "../relojes/watch17.webp",
+      "name": "Q&Q plata y dorado",
+      "category": "Q&Q",
+      "price": "90$",
+      "old": "100$",
+      "desc": "Q&Q plata y dorado combina la simplicidad con la elegancia. Este reloj es una declaración de estilo que complementa cualquier atuendo con su diseño versátil."
+    },
+    {
+      "imgURL": "../relojes/watch18.webp",
+      "name": "Q&Q dorado",
+      "category": "Q&Q",
+      "price": "90$",
+      "old": "100$",
+      "desc": "El Q&Q dorado es una elección clásica para quienes buscan un reloj dorado de alta calidad. Su diseño sencillo y atemporal lo convierte en una pieza imprescindible."
+    },
+    {
+      "imgURL": "../relojes/watch19.webp",
+      "name": "Q&Q dorado y plata",
+      "category": "Q&Q",
+      "price": "90$",
+      "old": "100$",
+      "desc": "Q&Q dorado y plata ofrece una combinación equilibrada de colores. Este reloj es una expresión de estilo moderno y elegancia discreta."
+    },
+    {
+      "imgURL": "../relojes/watch20.webp",
+      "name": "Q&Q plata",
+      "category": "Q&Q",
+      "price": "90$",
+      "old": "100$",
+      "desc": "El Q&Q plata es un reloj versátil y moderno que se adapta a cualquier estilo. Su elegante diseño y tono plateado lo convierten en una elección sofisticada."
+    },
+    {
+      "imgURL": "../relojes/watch21.webp",
+      "name": "Hublot",
+      "category": "Hublot",
+      "price": "90$",
+      "old": "100$",
+      "desc": "Hublot es sinónimo de innovación y estilo contemporáneo. Este reloj se destaca por su diseño vanguardista y materiales de alta calidad."
+    },
+    {
+      "imgURL": "../relojes/watch22.webp",
+      "name": "Rolex pareja R&N",
+      "category": "Rolex",
+      "price": "90$",
+      "old": "100$",
+      "desc": "El Rolex pareja Rojo & Negro es un conjunto elegante que simboliza el amor y la elegancia. Dos relojes perfectamente coordinados para parejas que valoran la calidad."
+    },
+    {
+      "imgURL": "../relojes/watch23.webp",
+      "name": "Gshock rojo",
+      "category": "Gshock",
+      "price": "90$",
+      "old": "100$",
+      "desc": "El Gshock rojo es un reloj resistente y lleno de energía. Su llamativo color rojo y características duraderas lo hacen ideal para aventuras audaces."
+    },
+    {
+      "imgURL": "../relojes/watch24.webp",
+      "name": "Gshock rojo 2",
+      "category": "Gshock",
+      "price": "90$",
+      "old": "100$",
+      "desc": "Con un diseño deportivo y vibrante, el Gshock rojo es perfecto para quienes buscan un reloj que destaque. Resistente y lleno de estilo."
+    },
+    {
+      "imgURL": "../relojes/watch25.webp",
+      "name": "Gshock rojo 3",
+      "category": "Gshock",
+      "price": "90$",
+      "old": "100$",
+      "desc": "El Gshock rojo es una declaración de moda y funcionalidad. Este reloj combina un diseño atractivo con la durabilidad característica de la marca."
+    },
+    {
+      "imgURL": "../relojes/watch26.webp",
+      "name": "Gshock blanco",
+      "category": "Gshock",
+      "price": "90$",
+      "old": "100$",
+      "desc": "El Gshock blanco es un reloj elegante y moderno. Su diseño limpio y minimalista lo convierte en un accesorio versátil para cualquier ocasión."
+    },
+    {
+      "imgURL": "../relojes/watch27.webp",
+      "name": "Gshock crema",
+      "category": "Gshock",
+      "price": "90$",
+      "old": "100$",
+      "desc": "El Gshock crema es un reloj único con un toque vintage. Su color crema suave y estilo retro lo hacen perfecto para aquellos que buscan originalidad."
+    },
+    {
+      "imgURL": "../relojes/watch28.webp",
+      "name": "Gshock C",
+      "category": "Gshock",
+      "price": "90$",
+      "old": "100$",
+      "desc": "Gshock C es un reloj que combina estilo y resistencia. Con un diseño contemporáneo, es ideal para quienes buscan un accesorio moderno y funcional."
+    },
+    {
+      "imgURL": "../relojes/watch29.webp",
+      "name": "Gshock negro",
+      "category": "Gshock",
+      "price": "90$",
+      "old": "100$",
+      "desc": "El Gshock negro es un clásico atemporal. Su elegante color negro y características robustas lo convierten en un reloj versátil para cualquier ocasión."
+    },
+    {
+      "imgURL": "../relojes/watch30.webp",
+      "name": "Gshock negro 2",
+      "category": "Gshock",
+      "price": "90$",
+      "old": "100$",
+      "desc": "Con un estilo moderno y audaz, el Gshock negro es perfecto para los amantes del diseño urbano. Su resistencia y estética hacen una combinación excepcional."
     }
-]
+
+  ]
+  

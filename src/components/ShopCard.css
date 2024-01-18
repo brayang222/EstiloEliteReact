@@ -1,0 +1,56 @@
+/* ShopCard.css */
+
+.shop-card {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  background-color: #f9f9f9;
+}
+
+.card-image {
+  width: 100%;
+  max-height: 150px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.card-title {
+  margin-top: 10px;
+  font-size: 1.5em;
+}
+
+
+.price, .old {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.card-buttons {
+  margin-top: 15px;
+}
+
+.ver-buttons-container {
+  display: flex;
+  margin-top: 30px;
+}
+
+.ver-mas-btn, .ver-menos-btn {
+  margin-right: 30px;
+}
+
+
+
+/* Modal styles */
+
+.modal-content {
+  max-width: 400px;
+  margin: 0 auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.modal-overlay {
+  background-color: rgba(0, 0, 0, 0.5);
+}
